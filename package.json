@@ -1,0 +1,27 @@
+{
+  "name": "dom-snapshots",
+  "version": "1.0.0",
+  "description": "Creates DOM snapshots used for e2e testing, or something else",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danijelmitrovic/dom-snapshots.git"
+  },
+  "keywords": [
+    "DOM",
+    "snapshot",
+    "snapshots"
+  ],
+  "author": {
+    "name": "Danijel Mitrovic",
+    "url": "https://www.danijel.net/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danijelmitrovic/dom-snapshots/issues"
+  },
+  "homepage": "https://opensource.danijel.net/dom-snapshots"
+}
